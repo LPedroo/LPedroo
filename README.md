@@ -47,18 +47,6 @@ Atualmente expandindo conhecimentos em **Cloud Computing** com AWS e Google Clou
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPedroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPedroo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🎯 Foco Atual
 
 - 🔭 Desenvolvendo aplicações Full-Stack com Next.js e Node.js
