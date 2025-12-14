@@ -51,9 +51,9 @@ Atualmente expandindo conhecimentos em **Cloud Computing** com AWS e Google Clou
 
 <div align="center">
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPedroo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LPedroo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -79,7 +79,7 @@ Estou sempre aberto para discutir projetos, trocar ideias ou simplesmente bater 
 
 ---
 
-⭐️ From [Pedro Ferreira](https://github.com/SEU_USERNAME_AQUI)
+⭐️ From [Pedro Ferreira](https://github.com/LPedroo)
 
 </div>
 
